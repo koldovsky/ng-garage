@@ -1,0 +1,22 @@
+[
+    {
+        "model": "Chevrolet Camaro",
+        "year": 2018,
+        "photo": "assets/cars/camaro.jpg"
+    },
+    {
+        "model": "Ford F150 Raptor",
+        "year": 2016,
+        "photo": "assets/cars/ford-f150.jpg"
+    },
+    {
+        "model": "Ferrari LaFerrari",
+        "year": 2015,
+        "photo": "assets/cars/ferrari.jpg"
+    },
+    {
+        "model": "Chevrolet Captiva",
+        "year": 2017,
+        "photo": "assets/cars/captiva.jpg"
+    }
+]
